@@ -19,7 +19,7 @@ Play against the computer using basic rules.
 ##  Run
 
 ```bash
-python main.py
+python black_j.py
 ```
 
 ---
